@@ -78,7 +78,7 @@ You can modify the game by:
 
 ## **Live Demo**
 Experience the game online by visiting the **live demo**:
-[Serpent Rush Live Demo](https://seuho.github.io/Serpentine-Rush/)
+[Serpent Rush Live Demo](https://seuho.github.io/Serpent-Rush/)
 
 ---
 
